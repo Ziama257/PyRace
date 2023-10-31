@@ -1,2 +1,2 @@
 # PyRace
-A Full Stack Python Flask Application featuring a simple racing game
+full stack python flask application featuring a simple racing game
